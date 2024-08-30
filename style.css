@@ -139,6 +139,7 @@ margin-bottom: 15px;
     color: white;
     border-radius: 5px;
     padding: 2px 10px;
+    cursor: pointer;
 }
 .services_list{
  padding-inline: 20px;
@@ -614,3 +615,7 @@ body.dark #moon{
     text-decoration: none;
 }
 
+.hero_btn a{
+    text-decoration: none;
+    color: black;
+}
